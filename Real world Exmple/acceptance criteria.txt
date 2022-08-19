@@ -1,0 +1,11 @@
+In this example we have to create a class Employee which contains method and properties .
+	like method : raise_pay()
+		property method : email() , fullname()
+
+
+write test case  according to  specification given below
+ 
+-> email must change according to the first and last name
+-> full name should also change according to first name and last name
+-> and a pay method which is raise the employees pay by five percent.
+
