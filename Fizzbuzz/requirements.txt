@@ -1,0 +1,5 @@
+
+-> if number is divisible by 3 say "Fizz"
+-> if number is divisible by 5 say "Buzz"
+-> if number is divisible by both "FizzBuzz"
+-> if number is not divisible by 3 and 5 the return number. 
